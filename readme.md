@@ -12,7 +12,7 @@ Operation Instructions:
 Place the contents of the TwitterMassArchiver repository in the folder where you wish for your media to be saved
 Run archive.py (either through windows: 'open with->Python' or through the commandline command python3 archive.py)
 
-Paste the *base* twitter links of your desired archive media (for example 'http://www.twitter.com/<username>/status/<number>' with no trailing tags. Anything including and after a question mark should be removed)
+Paste the *base* twitter links of your desired archive media (for example 'http://www.twitter.com/[username]/status/[number]' with no trailing tags. Anything including and after a question mark should be removed)
 
 Separate links with a new-line (press enter/return on keyboard)
 
